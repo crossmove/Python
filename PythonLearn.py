@@ -6,5 +6,7 @@ emp_1 = Employee()    #Creating instance the class.
 emp_2 = Employee()    
 
 print(emp_1)
+
 print('-------')
+print(emp_2)
 print(emp_2)
